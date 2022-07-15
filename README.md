@@ -2,7 +2,7 @@
 
 `npm start` to start proxy server
 
-For example, if you have started local http server on `http://localhost:8000`, to start https proxy server simply run `PORT=8000 npm start`
+For example, if you have started local http server on `http://localhost:8000`, to start https proxy server just run `PORT=8000 npm start`. Your proxy server will be accessible on `https://localhost:443` or simply `https://locahost`
 
 ### Options
 
