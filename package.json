@@ -1,0 +1,23 @@
+{
+  "name": "https-localhost-proxy",
+  "version": "1.0.0",
+  "description": "Setup https proxy to your local web application",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "ssl",
+    "openSSL",
+    "https",
+    "nodejs",
+    "express"
+  ],
+  "author": "Alexey Anisimov",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-http-proxy": "^1.6.3"
+  }
+}
